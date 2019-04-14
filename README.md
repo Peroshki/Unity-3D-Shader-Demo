@@ -9,5 +9,5 @@ A demonstration of three different shader techniques using CG/HLSL in Unity 3D. 
 | Space      | Jump      |
 | Left Shift | Run      |
 
-## Tip
+## Tips
 * Look up towards the ceiling to see where the light source is!
