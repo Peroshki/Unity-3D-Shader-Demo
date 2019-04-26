@@ -11,3 +11,6 @@ A demonstration of three different shader techniques using CG/HLSL in Unity 3D. 
 
 ## Tips
 * Look up towards the ceiling to see where the light source is!
+
+## Screenshots
+![Toon](Screenshots/Toon.png)
