@@ -14,6 +14,6 @@ A demonstration of three different shader techniques using CG/HLSL in Unity 3D. 
 
 ## Screenshots
 ![Toon](Screenshots/Toon.png)
-### <center>Toon shader</center>
+<center>Toon shader</center>
 ![Dissolve](Screenshots/Dissolve.png)
 ![Phong](Screenshots/Phong.png)
