@@ -13,6 +13,21 @@ A demonstration of three different shader techniques using CG/HLSL in Unity 3D. 
 * Look up towards the ceiling to see where the light source is!
 
 ## Screenshots
+
+<p align="center">
+  Toon shader:
+</p>
+
 ![Toon](Screenshots/Toon.png)
+
+<p align="center">
+  Dissolve shader:
+</p>
+
 ![Dissolve](Screenshots/Dissolve.png)
+
+<p align="center">
+  Phong shader:
+</p>
+
 ![Phong](Screenshots/Phong.png)
