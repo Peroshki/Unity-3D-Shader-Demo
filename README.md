@@ -15,19 +15,19 @@ A demonstration of three different shader techniques using CG/HLSL in Unity 3D. 
 ## Screenshots
 
 <p align="center">
-  Toon shader:
+  <strong>Toon shader:</strong>
 </p>
 
 ![Toon](Screenshots/Toon.png)
 
 <p align="center">
-  Dissolve shader:
+  <strong>Dissolve shader:</strong>
 </p>
 
 ![Dissolve](Screenshots/Dissolve.png)
 
 <p align="center">
-  Phong shader:
+  <strong>Phong shader:</strong>
 </p>
 
 ![Phong](Screenshots/Phong.png)
