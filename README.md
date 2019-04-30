@@ -1,6 +1,8 @@
 # Unity 3D Shader Demo
 
-A demonstration of three different shader techniques using CG/HLSL in Unity 3D. The shaders used in this demo are a toon shader, a dissolve shader and a Phong shader. Hosted at https://peroshki.github.io/Unity-3D-Shader-Demo/
+Play this demo at https://peroshki.github.io/Unity-3D-Shader-Demo/
+
+A demonstration of three different shader techniques using CG/HLSL in Unity 3D. The shaders used in this demo are a toon shader, a dissolve shader and a Phong shader. All of the shaders and scripts used in this demo can be found in the Assets folder.
 
 ## Controls
 | Key        | Action           |
